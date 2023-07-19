@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+    margin:  35px;
+    font-size: 14px;
+}
+div .container-fluid {
+  margin: 10px;
+  background-color: rgb(215, 209, 209);
+
+}
+.title {
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+.super-title {
+  padding-top: 80px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.9em;
+}
+#collapsable-nav, #header-nav {
+  background-color: rgb(133, 163, 192);
+}
+p .content{
+  padding: 20px;
+  margin: 20px;
+}
